@@ -1,6 +1,6 @@
-# Klyro — PDF Intelligence & Collaboration System
+# DocuMind — PDF Intelligence & Collaboration System
 
-Klyro is an enterprise-grade document intelligence and real-time collaboration application. Built on Next.js 14+ (App Router), Prisma, PostgreSQL (Supabase), Supabase Storage, and Google Gemini Flash (`gemini-flash-latest`), it transforms static PDF agreements and reports into interactive, summarized, and conversational workspaces that can be shared with guest reviewers without mandatory accounts.
+DocuMind is an enterprise-grade document intelligence and real-time collaboration application. Built on Next.js 14+ (App Router), Prisma, PostgreSQL (Supabase), Supabase Storage, and Google Gemini Flash (`gemini-flash-latest`), it transforms static PDF agreements and reports into interactive, summarized, and conversational workspaces that can be shared with guest reviewers without mandatory accounts.
 
 ---
 
